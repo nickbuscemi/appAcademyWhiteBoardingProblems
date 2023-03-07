@@ -1,0 +1,22 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "This is my solutions to the white Boarding problems => https://my.appacademy.io/lessons/problems/75f5d4f5/practices/whiteboarding-problems/3edb2818",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickbuscemi/appAcademyWhiteBoardingProblems.git"
+  },
+  "author": "nick buscemi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickbuscemi/appAcademyWhiteBoardingProblems/issues"
+  },
+  "homepage": "https://github.com/nickbuscemi/appAcademyWhiteBoardingProblems#readme"
+}
